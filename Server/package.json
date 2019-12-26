@@ -1,0 +1,23 @@
+{
+  "name": "tetris_multiplay_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apple01644/Tetris-Multiplaying.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apple01644/Tetris-Multiplaying/issues"
+  },
+  "homepage": "https://github.com/apple01644/Tetris-Multiplaying#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
